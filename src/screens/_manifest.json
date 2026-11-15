@@ -1,0 +1,28 @@
+{
+ "app": "Calendar Concept App",
+ "start": "calendar",
+ "screens": [
+  {
+   "slug": "calendar",
+   "name": "Calendar",
+   "page": "Page 1",
+   "w": 414,
+   "h": 896,
+   "elements": 72,
+   "links": 1
+  },
+  {
+   "slug": "activity",
+   "name": "Activity",
+   "page": "Page 1",
+   "w": 414,
+   "h": 896,
+   "elements": 49,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "poppins"
+ ]
+}
